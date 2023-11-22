@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="bottomButton">12sp</dimen>
+    <dimen name="size20">20sp</dimen>
+    <dimen name="textButton">22sp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="gap">8dp</dimen>
+    <dimen name="marginCenter">15dp</dimen>
+</resources>
